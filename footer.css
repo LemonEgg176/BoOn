@@ -1,0 +1,31 @@
+#footer{
+		width: 100%;
+		height: 700px;
+		background-color: #0CE239;
+	}
+	#web{
+		width: 25%;
+		float:left;
+		height: 100%;
+
+	}
+		#web img{
+			height: 20%;
+			width: 50%;
+				
+		}
+	#dich_vu{
+		width: 25%;
+		float:left;
+		height: 100%;
+	}
+	#faq{
+		width: 25%;
+		float:left;
+		height: 100%;
+	}
+	#account{
+		width: 25%;
+		float:left;
+		height: 100%;
+	}
